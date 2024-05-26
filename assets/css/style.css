@@ -923,8 +923,9 @@ section {
 .contact .email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: white;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  margin-left: 45px;
 }
 
 .contact .email-form .form-group {
